@@ -1,2 +1,5 @@
 # Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-
-objective of this project is to analyze and understand the reasons behind why customers stop taking the services
+## Objective 🎯
+The main objective of this project is to generate effective insights that help understand the complete narrative and identify the reasons why customers stop taking services.
+
+Conducting data assessment, cleaning, and exploratory data analysis (EDA) in Python, followed by performing hypothesis testing to derive accurate conclusions. 📊
