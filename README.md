@@ -4,7 +4,7 @@ The main objective of this project is to generate effective insights that help u
 
 Conducting data assessment, cleaning, and exploratory data analysis (EDA) in Python, followed by performing hypothesis testing to derive accurate conclusions. 📊
 
-[Uncleaned data]()
+[Uncleaned data](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Telco-Customer-Churn-real-data.csv)
 
 I have identified 0.15% missing values in the dataset and filled them using the KNN imputer for a more accurate analysis.
 
