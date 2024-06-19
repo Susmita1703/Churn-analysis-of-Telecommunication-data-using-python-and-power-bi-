@@ -14,7 +14,7 @@ I have identified 0.15% missing values in the dataset and filled them using the 
 
 ### Prepare a dashboard in Power BI to visualize and understand the data in a more interactive way. 📈
 
-[powerbi file]()
+[powerbi file](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/churn%20analysis.pbix)
 
  [Dashboard](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20Analysis%20Dashboard.png)
 
