@@ -8,7 +8,7 @@ Conducting data assessment, cleaning, and exploratory data analysis (EDA) in Pyt
 
 I have identified 0.15% missing values in the dataset and filled them using the KNN imputer for a more accurate analysis.
 
-[cleaned data]()
+[cleaned data](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/telecom%20churn%20analysis%20data.csv)
 
   [EDA File](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20analysis%20of%20Teleco%20company%20.ipynb)
 
