@@ -2,21 +2,21 @@
 ## Objective 🎯
 The main objective of this project is to generate effective insights that help understand the complete narrative and identify the reasons why customers stop taking services.
 
-Conducting data assessment, cleaning, and exploratory data analysis (EDA) in Python, followed by performing hypothesis testing to derive accurate conclusions. 📊
+### Conducting data assessment, cleaning, and exploratory data analysis (EDA) in Python, followed by performing hypothesis testing to derive accurate conclusions. 
 
-[Uncleaned data](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Telco-Customer-Churn-real-data.csv)
+## [Uncleaned data 📂](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Telco-Customer-Churn-real-data.csv)
 
 I have identified 0.15% missing values in the dataset and filled them using the KNN imputer for a more accurate analysis.
 
-[cleaned data](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/telecom%20churn%20analysis%20data.csv)
+## [cleaned data ✨](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/telecom%20churn%20analysis%20data.csv)
 
-  [EDA File](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20analysis%20of%20Teleco%20company%20.ipynb)
+## [EDA File 🔍](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20analysis%20of%20Teleco%20company%20.ipynb)
 
-### Prepare a dashboard in Power BI to visualize and understand the data in a more interactive way. 📈
+## Prepare a dashboard in Power BI to visualize and understand the data in a more interactive way. 📈
 
-[powerbi file](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/churn%20analysis.pbix)
+**[powerbi file](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/churn%20analysis.pbix)**
 
- [Dashboard](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20Analysis%20Dashboard.png)
+**[Dashboard](https://github.com/Susmita1703/Churn-analysis-of-Telecommunication-data-using-python-and-power-bi-/blob/main/Churn%20Analysis%20Dashboard.png)**
 
 ## Conclusion 📌
 Customers who pay high monthly charges are more likely to leave, which could be a significant reason for churn.
