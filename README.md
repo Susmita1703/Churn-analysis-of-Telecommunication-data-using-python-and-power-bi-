@@ -20,8 +20,11 @@ I have identified 0.15% missing values in the dataset and filled them using the 
 
 ## Conclusion 📌
 Customers who pay high monthly charges are more likely to leave, which could be a significant reason for churn.
+
 Monthly customers are more likely to churn due to the lack of contract terms, as they have the freedom to leave at any time.
+
 Customers without online security or tech support are high churners.
+
 Total charges of customers account for almost 18% of the churn rate, making it crucial to understand the patterns and reasons to better manage future customers.
 
 
